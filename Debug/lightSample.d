@@ -1,0 +1,1 @@
+lightSample.d: ../lightSample.cpp
